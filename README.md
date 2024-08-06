@@ -87,13 +87,3 @@ The game features a snake that moves around a defined area, eating fruits to gro
 
 - **Libraries and Tools:** This project uses standard C++ libraries and Windows-specific headers for console handling.
 
-## Contact
-
-For any questions or issues, please contact:
-
-- **Your Name:** [Your Email]
-- **GitHub:** [Your GitHub Profile]
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
